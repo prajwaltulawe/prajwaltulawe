@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/C4D16AQGMq8LB6dcTpQ/profile-displaybackgroundimage-shrink_350_1400/0/1657293266246?e=1700697600&v=beta&t=NRD5HDtOeNsqktK4QhpF0oH5qcWRkPZgZiC1APCbEjk](https://media.licdn.com/dms/image/C4D16AQGMq8LB6dcTpQ/profile-displaybackgroundimage-shrink_350_1400/0/1657293266844?e=1714003200&v=beta&t=NaJ2UY54p1nhYaWGVe6OjTz-zia_wlBELUpPejPEVGY)">
+<img src="https://media.licdn.com/dms/image/C4D16AQGMq8LB6dcTpQ/profile-displaybackgroundimage-shrink_350_1400/0/1657293266246?e=1700697600&v=beta&t=NRD5HDtOeNsqktK4QhpF0oH5qcWRkPZgZiC1APCbEjk">
 
 # Hii, I'm Prajwal Tulawe
 __I combine creativity and coding to build captivating web applications. Explore my projects and their functionality.__
